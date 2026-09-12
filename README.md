@@ -35,16 +35,3 @@ track stock levels, search inventory, and generate summary reports.
 
 ---
 
-##  Object-Oriented Design
-
-The application is organized around three main classes.
-
-### `Category`
-
-Represents a category in the inventory.
-
-```text
-Category
-├── name
-├── description
-└── to_dict()
