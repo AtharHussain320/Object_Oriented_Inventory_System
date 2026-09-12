@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "Electronics",
+            "description": "Electronic devices and accessories"
+        },
+        {
+            "name": "Stationery",
+            "description": "Office and study supplies"
+        },
+        {
+            "name": "Accessories",
+            "description": "Computer and mobile accessories"
+        }
+    ],
+    "products": [
+        {
+            "product_id": "P001",
+            "name": "Wireless Mouse",
+            "category": "Accessories",
+            "price": 1850.0,
+            "quantity": 18,
+            "reorder_level": 5
+        },
+        {
+            "product_id": "P002",
+            "name": "Mechanical Keyboard",
+            "category": "Electronics",
+            "price": 6500.0,
+            "quantity": 7,
+            "reorder_level": 5
+        },
+        {
+            "product_id": "P003",
+            "name": "USB-C Cable",
+            "category": "Accessories",
+            "price": 950.0,
+            "quantity": 4,
+            "reorder_level": 5
+        },
+        {
+            "product_id": "P004",
+            "name": "Notebook",
+            "category": "Stationery",
+            "price": 450.0,
+            "quantity": 25,
+            "reorder_level": 5
+        },
+        {
+            "product_id": "P005",
+            "name": "Desk Lamp",
+            "category": "Electronics",
+            "price": 3200.0,
+            "quantity": 3,
+            "reorder_level": 5
+        }
+    ]
+}
